@@ -37,8 +37,6 @@ Cloud: AWS | Firebase | Vercel
 
 [Avijit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=avijit0022\&show_icons=true\&theme=dark#gh-dark-mode-only)
 
-[Avijit's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=avijit0022\&show_icons=true\&theme=default#gh-light-mode-only)
-
 
 *🧩 Fun Facts*
 - 🕹️ I love retro video games and pixel art
