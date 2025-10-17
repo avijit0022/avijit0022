@@ -34,7 +34,7 @@ Cloud: AWS | Firebase | Vercel
 ```
 
 *📈 GitHub Stats*
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=avijit0022&show_icons=true&theme=radical)
 
 *🧩 Fun Facts*
 - 🕹️ I love retro video games and pixel art
