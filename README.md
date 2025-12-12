@@ -307,20 +307,16 @@
 <img src="./gmail.png" width=50 height=50 alt="avijitpal0022@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/the_unorthodox_soul" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/avijit0022" target="_blank">
+<a href="https://www.github.com/avijit0022" target="_blank">
 <img src="./github.png" width=50 height=50 alt="avijit0022" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/avijit-pal-066b6b139" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
